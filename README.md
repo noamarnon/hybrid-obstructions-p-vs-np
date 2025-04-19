@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="300"/>
+</p>
+
 # Hybrid Obstructions for P ≠ NP
 
 🚀 Independent project by **Noam Arnon** — developer & math enthusiast  
